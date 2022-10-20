@@ -22,6 +22,7 @@ body{
 }
 
 
+
 .shadow {
     display: block;
     width: 100px;
@@ -30,7 +31,7 @@ body{
     background: rgba(255, 255, 255, 0);
     box-shadow: 10px -75px 20px 30px rgba(0, 0, 0, .2);
     position: absolute;
-    bottom: 10px;
+    top: 670px;
     left: 20px;
     animation:move 5s linear 1, shadow 5s linear 1;
     animation-delay: 1s;
