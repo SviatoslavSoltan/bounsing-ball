@@ -21,8 +21,6 @@ body{
     z-index: 2;
 }
 
-
-
 .shadow {
     display: block;
     width: 100px;
@@ -63,9 +61,6 @@ body{
 
 }
 
-
-
-
 @keyframes jump {
     0% {
         transform: translate(0,0) rotate(0deg);
@@ -81,8 +76,8 @@ body{
         width: 110px;
         height: 70px;
     }
-       
-    29% {
+
+    30% {
         transform: translate(0,500px) rotate(200deg);
         width: 100px;
         height: 100px;
@@ -91,11 +86,6 @@ body{
     43% {
         transform: translate(0,200px) rotate(360deg);
     }
-
-    45% {
-        transform: translate(0,200px) rotate(380deg);
-    }
-
 
     60% {
         transform: translate(0,500px) rotate(540deg);
@@ -108,7 +98,7 @@ body{
         width: 110px;
         height: 80px;
     }
-       
+
     64% {
         transform: translate(0,500px) rotate(560deg);
         width: 100px;
@@ -148,10 +138,9 @@ body{
 
 }
 
-
 @keyframes move{
     100%{
-        left: 90%;
+        left: 95%;
     }
 }
 
