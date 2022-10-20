@@ -76,7 +76,7 @@ body{
     }
     
     28% {
-        transform: translate(0,500px) rotate(190deg);
+        transform: translate(0,530px) rotate(190deg);
         width: 110px;
         height: 70px;
     }
@@ -103,7 +103,7 @@ body{
     }
     
     62% {
-        transform: translate(0,500px) rotate(550deg);
+        transform: translate(0,520px) rotate(550deg);
         width: 110px;
         height: 80px;
     }
@@ -129,7 +129,7 @@ body{
     }
     
     92% {
-        transform: translate(0,500px) rotate(910deg);
+        transform: translate(0,510px) rotate(910deg);
         width: 110px;
         height: 90px;
     }
